@@ -4,3 +4,4 @@ matplotlib
 sphinx
 sphinx-rtd-theme
 pyspark
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
