@@ -39,7 +39,7 @@
 				</property>
 			</activation>
 			<properties>
-				<spark.version>3.3.1</spark.version>
+				<spark.version>3.5.2</spark.version>
 				<scala.version>2.12.17</scala.version>
 				<spark.binary.version>3.3</spark.binary.version>
 				<scala.binary.version>2.12</scala.binary.version>
@@ -55,7 +55,7 @@
 				</property>
 			</activation>
 			<properties>
-				<spark.version>3.2.3</spark.version>
+				<spark.version>3.5.2</spark.version>
 				<scala.version>2.12.17</scala.version>
 				<spark.binary.version>3.2</spark.binary.version>
 				<scala.binary.version>2.12</scala.binary.version>
@@ -71,7 +71,7 @@
 				</property>
 			</activation>
 			<properties>
-				<spark.version>3.1.2</spark.version>
+				<spark.version>3.5.2</spark.version>
 				<scala.version>2.12.10</scala.version>
 				<spark.binary.version>3.1</spark.binary.version>
 				<scala.binary.version>2.12</scala.binary.version>
@@ -87,7 +87,7 @@
 				</property>
 			</activation>
 			<properties>
-				<spark.version>3.0.3</spark.version>
+				<spark.version>3.5.2</spark.version>
 				<scala.version>2.12.11</scala.version>
 				<spark.binary.version>3.0</spark.binary.version>
 				<scala.binary.version>2.12</scala.binary.version>
@@ -103,7 +103,7 @@
 				</property>
 			</activation>
 			<properties>
-				<spark.version>2.4.8</spark.version>
+				<spark.version>3.5.2</spark.version>
 				<scala.version>2.11.12</scala.version>
 				<spark.binary.version>2.4</spark.binary.version>
 				<scala.binary.version>2.11</scala.binary.version>
